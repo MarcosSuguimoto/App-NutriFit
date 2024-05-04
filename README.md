@@ -1,4 +1,4 @@
-# Projeto NutriFit
+# Projeto App NutriFit
 Este projeto tem como objetivo criar uma versão mobile de uma versão anterior web para o NutriFit. O propósito do app é conectar pacientes a profissionais de nutricao. Ele permite agendar consultas, visualizar receitas e oferece login exclusivo para os profissionais acessarem a agenda.
 
 ### Equipe Dev. do Projeto App-NutriFit - Grupo 15
